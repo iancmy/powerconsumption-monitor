@@ -127,4 +127,4 @@ You can also search for a specific process by typing in the `name` or `pid` of t
 
 ## Demo
 
-![Demo](demo.gif)
+https://github.com/iancmy/powerconsumption-monitor/blob/master/demo.gif
